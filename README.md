@@ -1,7 +1,7 @@
 # hmds-network
 This repository contains the code for my MRes dissertation project in Healthcare Technologies at King's College London. The project involves developing a neural network to classify hyperkinetic movement disorders (HMDs) using video data.
 
-Overview
+# **Overview**
 The HMDS-Network is designed to process joint coordinates extracted from video frames using OpenPose, organizing them into a spatiotemporal matrix for analysis. The repository includes two Google Colab notebooks:
 
 Training & Cross-Validation Notebook:
