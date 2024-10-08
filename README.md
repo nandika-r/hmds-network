@@ -13,10 +13,10 @@ Attention Mapping Notebook:
 An alternative notebook that implements visual attention score mapping, providing insights into the network's focus during classification.
 Additionally, I plan to upload other development versions of the code, such as the hyperparameter tuning grid search.
 
-Notes
+# Notes
 Despite attempts to standardize the training results (e.g., using seeding), minor variations exist in the confidence intervals and p-values of the model metrics.
 
-Disclaimer
+# Disclaimer
 I'm relatively new to coding and machine learning, having started learning just a year ago. The code may be complex or lack sufficient comments, as I haven't had the time to refine or document it extensively since submitting my dissertation.
 
 If you have any questions, suggestions, or need further clarification, feel free to email me at nandika.ramamurthy@kcl.ac.uk.
