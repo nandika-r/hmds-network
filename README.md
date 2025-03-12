@@ -10,7 +10,8 @@ This notebook features the preprocessing code, network structure (spatial and te
 ![image](https://github.com/user-attachments/assets/b0bbcd14-7b02-4c03-8efc-ae766af6b75b)
 
 Attention Mapping Notebook:
-An alternative notebook that implements visual attention score mapping, providing insights into the network's focus during classification.
+An alternative notebook that implements visual attention score mapping, providing insights into the network's focus during classification. The final attention output files were too large to upload to the repository, therefore, I have created a Google Drive link to view these files - https://drive.google.com/drive/folders/1Xu4RFYBMSSl8eMDYSnnvUp_h-rQ79MQj?usp=sharing.
+
 Additionally, I plan to upload other development versions of the code, such as the hyperparameter tuning grid search.
 
 # Disclaimer
